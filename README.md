@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dimitris Vichos</h1>
 <h3 align="center">A Greece-based frontend developer driven by passion and dedication for coding and design.</h3>
-<img align="right" width="400" style="`borderRadius: 50" src="https://avatars.githubusercontent.com/u/28059666?v=4" alt="myImage" />
+<img align="right" width="300" src="https://avatars.githubusercontent.com/u/28059666?v=4" alt="myImage" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimitriosvichos&label=Profile%20views&color=0e75b6&style=flat" alt="dimitriosvichos" /> </p>
 
